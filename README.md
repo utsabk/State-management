@@ -1,4 +1,4 @@
-# Cookies
+# Session
 
-ExpressJS - Cookies
+ExpressJS - Session
 
